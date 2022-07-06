@@ -1,0 +1,9 @@
+name: RapdaSpeed
+main: rapda.Main
+api:
+  - 1.0.0
+version: 2
+load: POSTWORLD
+autehor: rapda
+//免责声明：
+//本插件灵感来自 @EaseCation 伺服器
